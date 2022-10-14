@@ -7,4 +7,4 @@
 <div >
  
  
- ![Snake animation](https://github.com/marcossousantos/marcossousantos/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/marcossantossousa/marcossantossousa/blob/output/github-contribution-grid-snake.svg)
