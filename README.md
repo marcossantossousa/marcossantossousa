@@ -1,6 +1,3 @@
-## Hello, Devs!!!
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcos+Sousa;I'm+26+years+old;I+from+Brasil,+MG;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div>
