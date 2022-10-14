@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-  <img src="https://github.com/marcossantossousa/marcossantossousa/raw/main/assets/header-github.gif" alt="Oi, eu sou o Marcos">
+  <img src="https://github.com/marcossantossousa/marcossantossousa/raw/main/assets/header-github.gif.gif" alt="Oi, eu sou o Marcos">
 </p>
 </div>
 
