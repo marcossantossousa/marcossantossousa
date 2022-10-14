@@ -10,7 +10,7 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
+      # Snake Animation 
       - uses: Platane/snk@master
         id: snake-gif
         with:
